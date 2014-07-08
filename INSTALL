@@ -1,0 +1,9 @@
+Building AngelCoin
+
+See doc/readme-qt.rst for instructions on building AngelCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AngelCoin.
+
+See doc/build-*.txt for instructions on building angelcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AngelCoin.
